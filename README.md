@@ -1,4 +1,4 @@
-# verbose-dollop
+# verbose-dollop (Telco Churn, classification problem)
 # Problem
 Machine Learning beginning for churn in the Telecommunication Industry. Churn has long been a major problem in the telecommunication industry as users can easily swap to a different service provider. This prompts service providers to identify patterns that make a user churn. The information helps the service provider know the certain conditions that users are more likely to churn. The service providers can suggest products or services that will navigate such conditions to facilitate customer churn. The customer dataset is gotten from Kaggle.
 
